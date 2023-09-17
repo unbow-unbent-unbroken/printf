@@ -6,6 +6,10 @@
 * [Collaborators](#collaborators)
 
 ## Description
+
+## Environment
+This project will be compiled and tested using Ubuntu 20.04 LTS using gcc
+
 ## Compilation
 * The codes will be compiled this way:
 
