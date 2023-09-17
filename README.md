@@ -18,6 +18,6 @@ This project will be compiled and tested on Ubuntu 20.04 LTS using gcc
 
 ## Collaborators
 
-Mavis Iyoha - [Github](https://github.com/unbow-unbent-unbroken) / [Twitter](https://twitter.com/Mavis_Iyoha)
+#### Mavis Iyoha - [Github](https://github.com/unbow-unbent-unbroken) / [Twitter](https://twitter.com/Mavis_Iyoha)
 
 Owhe Efe - 
