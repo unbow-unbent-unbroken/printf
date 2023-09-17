@@ -8,6 +8,7 @@
 ## Description
 ## Compilation
 * The codes will be compiled this way:
+
 `gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c`
 
 ## Collaborators
