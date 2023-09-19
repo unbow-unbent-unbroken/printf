@@ -25,13 +25,17 @@ int _printf(const char *format, ...)
 				case 'c':
 				{
 					char c = va_arg(args, int);
+
 					write(1, &c, 1);
 					count++;
 					break;
 				}
 				case 's':
 				{
-					char *str = va_arg(args; char *);
+					char *str;
+
+					*str = va_arg(args; char *);
+
 					if (str == NULL)
 						str = "(null)";
 					while (*str)
