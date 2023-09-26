@@ -46,5 +46,6 @@ int printf_char(va_list val);
 int printf_string(va_list val);
 int _putchar(char c);
 int _printf(const char *format, ...);
+int handle_d_i(va_list args);
 
 #endif /* MAIN_H */
